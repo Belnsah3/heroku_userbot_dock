@@ -530,5 +530,5 @@ text = await stt_service.recognize(voice)
 
 ---
 
-*Документация по написанию модулей для Heroku/Hikka Userbot 1.0*
-*Документация написана пользователем github Belnash3, для каких либо вопросов обращайтесь в telegram @go_minetik*
+*Документация Grandmaster Edition v3.0*
+*Специально для Antigravity User.*
